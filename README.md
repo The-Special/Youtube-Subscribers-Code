@@ -16,6 +16,8 @@ The code to automatically unsubscribe from Youtube.
 
 📌 Repeat this by refreshing the page after each page is finished.
 
+### Illustrated narration:
+
 
 First: https://hizliresim.com/a0R85i
 
