@@ -12,7 +12,7 @@ The code to automatically unsubscribe from Youtube.
 
 📌 Shortcut keys: [F12] , [Ctrl + Shift + I]
 
-📌 and paste the code you received.
+📌 And paste the code you received then press enter.
 
 📌 Repeat this by refreshing the page after each page is finished.
 
