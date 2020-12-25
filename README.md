@@ -26,4 +26,4 @@ Third: https://hizliresim.com/Md2sXC and run the code.
 Output: https://hizliresim.com/OYH36f
 
 
-Note:```If you couldn't do that, you can reach me through the links on my profile.```
+Note: `If you couldn't do that, you can reach me through the links on my profile.`
