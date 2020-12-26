@@ -1,5 +1,5 @@
 # Youtube-Subscribers-Code
-A code to automatically cancel your subscriptions on youtube
+A code to automatically cancel your subscriptions on youtube.
 
 ### How do I run it?
 
